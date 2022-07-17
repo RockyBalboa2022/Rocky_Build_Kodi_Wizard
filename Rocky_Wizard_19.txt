@@ -1,6 +1,6 @@
 id="plugin.program.RockyBalboa"
 version="2.0.7"
-zip=""
+zip="https://ogy.de/RockyWizard"
 
 name="Rocky Balboa"
 version="1.0.0"
